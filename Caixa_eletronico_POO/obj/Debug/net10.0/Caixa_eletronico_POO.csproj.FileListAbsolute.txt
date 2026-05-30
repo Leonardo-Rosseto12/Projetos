@@ -1,0 +1,14 @@
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.AssemblyInfoInputs.cache
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.AssemblyInfo.cs
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.csproj.CoreCompileInputs.cache
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\bin\Debug\net10.0\Caixa_eletronico_POO.exe
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\bin\Debug\net10.0\Caixa_eletronico_POO.deps.json
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\bin\Debug\net10.0\Caixa_eletronico_POO.runtimeconfig.json
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\bin\Debug\net10.0\Caixa_eletronico_POO.dll
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\bin\Debug\net10.0\Caixa_eletronico_POO.pdb
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.dll
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\refint\Caixa_eletronico_POO.dll
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.pdb
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\Caixa_eletronico_POO.genruntimeconfig.cache
+C:\Users\leopr\OneDrive\Documentos\Projetos\Caixa_eletronico_POO\Caixa_eletronico_POO\obj\Debug\net10.0\ref\Caixa_eletronico_POO.dll
